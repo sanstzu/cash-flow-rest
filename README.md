@@ -11,3 +11,5 @@ To run this project:
 ```python manage.py runserver```
 5. Run the site in `cash_flow_tracker\transaction-frontend`\
 ```npm start```
+
+To access the website, simply open `localhost:3000` with the backend hosted at `localhost:8000`
